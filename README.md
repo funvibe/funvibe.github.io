@@ -1,1 +1,1 @@
-# funvibe.github.io
+# [funvibe](https://github.com/funvibe)
