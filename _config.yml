@@ -1,0 +1,9 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Oleg Kulikov
+tagline: ai driven development
+description: All the software here is written by AI agents under my supervision
+
+show_downloads: false
